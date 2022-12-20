@@ -1,0 +1,24 @@
+{
+    "Name": "Intraoperative EEG dataset during medianus-tibialis stimulation with 8 different rates",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Giorgio Selmin",
+        "Vasileios Dimakopoulos",
+        "Luca Regli",
+        "Johannes Sarnthein"
+    ],
+    "Acknowledgements": "We acknowledge a grant awarded by the Swiss National Science Foundation(funded by the SNSF 204651 to J.S.) and a scholarship awarded by the Alexander S. Onassis Public Benefit Foundation (to V.D.). The funders had no role in the design or analysis of the study. We thank two anonymous reviewers for their constructive comments on earlier versions of the manuscript.",
+    "HowToAcknowledge": "Please cite this paper: Add DOI..",
+    "Funding": [
+        "Swiss National Science Foundation, SNSF 204651",
+        "Alexander S. Onassis Public Benefit Foundation Scholarship"
+    ],
+    "EthicsApprovals": ["Kantonale Ethikkommision PB-2017-00094"],
+    "ReferencesAndLinks": [
+        "Add references",
+        ""
+    ],
+    "DatasetDOI": "add the doi from openneuro"
+}
