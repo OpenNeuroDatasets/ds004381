@@ -32,12 +32,10 @@ minimum peak width = 4 ms, samples = 0.2 ms). We used the times of the detected 
 post-stimulus recording sweep length 50 ms for medianus SEP and 100 ms for tibial SEP. We resampled the data to sampling rate 1200 Hz before
 further processing. We classified sweeps with amplitude > 10 µV as artefact-ridden and excluded them from further analysis."
 
-BIDS Conversion
----------------
+## BIDS Conversion
 bids-starter-kid and custom Matlab scripts were used to convert the dataset into BIDS format. 
 
 
-References
-----------
-*[1] 
+## References
+- [1] 
 
