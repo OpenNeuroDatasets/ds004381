@@ -1,5 +1,5 @@
 {
-    "Name": "Intraoperative EEG dataset during medianus-tibialis stimulation with 8 different rates",
+    "Name": "Intraoperative SEP with stimulation rates 2.7-28.7 Hz",
     "BIDSVersion": "1.4.0",
     "DatasetType": "raw",
     "License": "CC0",
