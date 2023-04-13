@@ -1,0 +1,5 @@
+name	type	units	sampling_frequency
+C3-Fz	EEG	mV      	20000
+Cz-Fz	EEG	mV      	20000
+C4-Fz	EEG	mV      	20000
+C3-C4	EEG	mV      	20000
