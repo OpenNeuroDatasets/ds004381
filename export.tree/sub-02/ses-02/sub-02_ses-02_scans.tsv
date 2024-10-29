@@ -1,0 +1,6 @@
+filename	acq_time	stimRate
+eeg/sub-02_ses-02_task-sepRate_run-01_eeg.edf	2021-09-02T10:55:48	2.7
+eeg/sub-02_ses-02_task-sepRate_run-02_eeg.edf	2021-09-02T10:57:55	4.7
+eeg/sub-02_ses-02_task-sepRate_run-03_eeg.edf	2021-09-02T11:01:24	8.7
+eeg/sub-02_ses-02_task-sepRate_run-04_eeg.edf	2021-09-02T11:07:55	12.7
+eeg/sub-02_ses-02_task-sepRate_run-05_eeg.edf	2021-09-02T11:16:36	16.7
