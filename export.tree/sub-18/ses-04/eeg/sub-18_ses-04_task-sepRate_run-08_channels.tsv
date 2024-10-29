@@ -1,6 +1,0 @@
-name	type	units	sampling_frequency
-C3-Cz	EEG	mV      	20000
-Cz-Fz	EEG	mV      	20000
-C4-Cz	EEG	mV      	20000
-C3-Erb R	EEG	mV      	20000
-C4-Erb L	EEG	mV      	20000
